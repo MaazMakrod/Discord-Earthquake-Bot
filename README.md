@@ -14,7 +14,7 @@ Quake Bot’s commands are prefixed with a dollar sign to distinguish them from 
 
 ## How it Works
 
-Although the code can be downloaded locally, we have added the code to replit.com and it can be found here: https://replit.com/@MaazMakrod/Earthquakez-Bot#main.py. By doing so, we were able to work collectively to create the bot and can run it on a server, rather than our local machine. To run the bot, all you need is its token which for us is held in the ```my_secret``` variable.
+Although the code can be downloaded locally, we have added the code to replit.com and it can be found [here](https://replit.com/@MaazMakrod/Earthquakez-Bot#main.py). By doing so, we were able to work collectively to create the bot and can run it on a server, rather than our local machine. To run the bot, all you need is its token which for us is held in the ```my_secret``` variable.
 
 ## Demo
 
