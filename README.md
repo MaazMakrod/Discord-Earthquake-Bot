@@ -29,4 +29,4 @@ After creating the bot, we moved on to our next challenge as part of the hackath
 
 ## Creating the Site
 
-Our last challenge was to create the site. At this point in the hackathon, it was close to 1 AM. Our team worked as hard as we could to develop a functional desktop site and by 3 AM we were able to call it a night. The site can be viewed [here](https://earthquake-bot.maazmakrod.repl.co/) and a github repository with the code can be seen [here]().
+Our last challenge was to create the site. At this point in the hackathon, it was close to 1 AM. Our team worked as hard as we could to develop a functional desktop site and by 3 AM we were able to call it a night. The site can be viewed [here](https://earthquake-bot.maazmakrod.repl.co/) and a github repository with the code can be seen [here](https://github.com/MaazMakrod/Earthquake-Bot-Site).
