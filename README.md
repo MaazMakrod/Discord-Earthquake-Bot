@@ -7,10 +7,10 @@ Quake bot scrapes data from https://VolcanoDiscovery.com, a website which contai
 Quake Bot’s commands are prefixed with a dollar sign to distinguish them from regular text messages.
 
 ## Commands
-* **$help** - Lists all available commands
+* **$help** - Lists all available commands.
 * **$earthquake** - Allows the user to see the most recent earthquake that occurred in any place of the world at the time requested.
-* **$dailysummary** - Provides a daily summary of all the earthquakes across the globe
-* **$strongestquake** - Shows the strongest earthquake that occured today
+* **$dailysummary** - Provides a daily summary of all the earthquakes across the globe.
+* **$strongestquake** - Shows the strongest earthquake that occured today.
 
 ## How it Works
 
