@@ -17,7 +17,16 @@ Quake Bot’s commands are prefixed with a dollar sign to distinguish them from 
 Although the code can be downloaded locally, we have added the code to replit.com and it can be found here: https://replit.com/@MaazMakrod/Earthquakez-Bot#main.py. By doing so, we were able to work collectively to create the bot and can run it on a server, rather than our local machine. To run the bot, all you need is its token which for us is held in the ```my_secret``` variable.
 
 ## Demo
+
 ![image](https://user-images.githubusercontent.com/71241543/123527339-90621c80-d6ac-11eb-924f-62fe84492ee1.png)
 ![image](https://user-images.githubusercontent.com/71241543/123527327-7f191000-d6ac-11eb-9102-c4bfbc49cf11.png)
 ![image](https://user-images.githubusercontent.com/71241543/123527329-85a78780-d6ac-11eb-8501-10c13b98fd2d.png)
 ![image](https://user-images.githubusercontent.com/71241543/123527335-8b9d6880-d6ac-11eb-9a0c-cc446ff672ea.png)
+
+## Designing a Marketing Site
+
+After creating the bot, we moved on to our next challenge as part of the hackathon, to design a mocksite to market our project. This was done by using Figma, and can be viewed [here](https://www.figma.com/proto/86AVEikWSaby4ix96R1hBW/QuakeBot-Website?page-id=0%3A1&node-id=1%3A2&viewport=584%2C-58%2C0.7111635804176331&scaling=min-zoom).
+
+## Creating the Site
+
+Our last challenge was to create the site. At this point in the hackathon, it was close to 1 AM. Our team worked as hard as we could to develop a functional desktop site and by 3 AM we were able to call it a night. The site can be viewed [here](https://earthquake-bot.maazmakrod.repl.co/#Shaking-the-game) and a github repository with the code can be seen [here]().
