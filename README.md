@@ -12,6 +12,10 @@ Quake Bot’s commands are prefixed with a dollar sign to distinguish them from 
 * **$dailysummary** - Provides a daily summary of all the earthquakes across the globe
 * **$strongestquake** - Shows the strongest earthquake that occured today
 
+## How it Works
+
+Although the code can be downloaded locally, we have added the code to replit.com and it can be found here: https://replit.com/@MaazMakrod/Earthquakez-Bot#main.py. By doing so, we were able to work collectively to create the bot and can run it on a server, rather than our local machine. To run the bot, all you need is its token which for us is held in the ```my_secret``` variable.
+
 ## Demo
 ![image](https://user-images.githubusercontent.com/71241543/123527339-90621c80-d6ac-11eb-924f-62fe84492ee1.png)
 ![image](https://user-images.githubusercontent.com/71241543/123527327-7f191000-d6ac-11eb-9102-c4bfbc49cf11.png)
